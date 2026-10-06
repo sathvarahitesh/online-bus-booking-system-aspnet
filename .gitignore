@@ -1,0 +1,35 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build folders
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio cache
+.vscode/
+
+# User-specific files
+*.user
+*.userosscache
+*.sln.docstates
+
+# SQL Server database files
+*.mdf
+*.ldf
+*.ndf
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+
+# Backup files
+*.bak
